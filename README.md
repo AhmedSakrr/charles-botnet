@@ -8,4 +8,4 @@
 
 description
 charles et un botnet qui tient en inseul fichier vous paurrait si vous voules installer un ui il vous le proposerat
-il vas installer toute les ependence seule ne vous inquete pas.
+il vas installer toute les dependence seule ne vous inquete pas.
